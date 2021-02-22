@@ -10,13 +10,11 @@
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/zsh",
-		"workbench.colorTheme": "codeSTACKr Theme"
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"coenraads.bracket-pair-colorizer-2",
-		"codestackr.codestackr-theme"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
