@@ -3,12 +3,9 @@ ZSH_THEME="cloud"
 plugins=(
   git 
   vscode 
-  nvm 
   yarn
   docker
   fasd
-  zsh-autosuggestions
-  zsh-completions
   npm
 )
 
